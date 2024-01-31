@@ -1,3 +1,3 @@
 # Personal Portfolio
 
-> https://hac.github.io/
+> https://hritvik-choudhari0411.github.io/Portfolio/
